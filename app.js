@@ -1,12 +1,17 @@
-var express = require('express');
-var port = process.env.PORT || 3000;
+const express = require('express');
+const port = process.env.PORT || 3000;
+const modelsContainer = require('./models.json');
 
-var app = express();
+let app = express();
 
 app.get('/', function (req, res) {
  res.send(JSON.stringify({ Hello: 'World'}));
 });
 
+app.get('/models', function (req, res) {
+  res.send(modelsContainer);
+});
+
 app.listen(port, function () {
- console.log(`Example app listening on port !`);
+ console.log(`the server is available on http://localhost:${port}/\n`);
 });
