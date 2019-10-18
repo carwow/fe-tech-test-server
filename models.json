@@ -1,18 +1,50 @@
 [
   {
     "id": "1",
-    "make": "Audi",
-    "model": "A1"
+    "make": "Volvo",
+    "model": "XC40",
+    "img_url": "https://warm-dawn-92320.herokuapp.com/img/volvo_xc40.png"
   },
   {
     "id": "2",
     "make": "Volkswagen",
-    "model": "Golf"
+    "model": "Golf",
+    "img_url": "https://warm-dawn-92320.herokuapp.com/img/volkswagen_golf.png"
   },
   {
     "id": "3",
     "make": "Mercedes",
     "model": "GLC SUV",
     "img_url": "https://warm-dawn-92320.herokuapp.com/img/mercedes_glc_suv.png"
+  },
+  {
+    "id": "4",
+    "make": "Hyundai",
+    "model": "i30 N",
+    "img_url": "https://warm-dawn-92320.herokuapp.com/img/hyundai_i30_n.png"
+  },
+  {
+    "id": "5",
+    "make": "Kia",
+    "model": "Sportage",
+    "img_url": "https://warm-dawn-92320.herokuapp.com/img/kia_sportage.png"
+  },
+  {
+    "id": "6",
+    "make": "Mercedes",
+    "model": "A-class",
+    "img_url": "https://warm-dawn-92320.herokuapp.com/img/mercedes_a_class.png"
+  },
+  {
+    "id": "7",
+    "make": "SEAT",
+    "model": "Arona",
+    "img_url": "https://warm-dawn-92320.herokuapp.com/img/seat_arona.png"
+  },
+  {
+    "id": "8",
+    "make": "Skoda",
+    "model": "Kodiaq",
+    "img_url": "https://warm-dawn-92320.herokuapp.com/img/skoda_kodiaq.png"
   }
 ]
