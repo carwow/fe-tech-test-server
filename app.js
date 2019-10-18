@@ -19,7 +19,7 @@ app.get('/model/:id', (req, res) => {
 
   if (!Number.isNaN(id)) {
     const task = modelsContainer.find(item => {
-      return (parseInt(item.id) === id);
+      return (item.id === id);
     });
 
     if (task !== null) {
