@@ -8,5 +8,11 @@
     "id": "2",
     "make": "Volkswagen",
     "model": "Golf"
+  },
+  {
+    "id": "3",
+    "make": "Mercedes",
+    "model": "GLC SUV",
+    "img_url": "https://warm-dawn-92320.herokuapp.com/img/mercedes_glc_suv.png"
   }
 ]
