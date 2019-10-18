@@ -3,48 +3,56 @@
     "id": 1,
     "make": "Volvo",
     "model": "XC40",
-    "img_url": "https://warm-dawn-92320.herokuapp.com/img/volvo_xc40.png"
+    "img_url": "https://warm-dawn-92320.herokuapp.com/img/volvo_xc40.png",
+    "rrp": 28965.00
   },
   {
     "id": 2,
     "make": "Volkswagen",
     "model": "Golf",
-    "img_url": "https://warm-dawn-92320.herokuapp.com/img/volkswagen_golf.png"
+    "img_url": "https://warm-dawn-92320.herokuapp.com/img/volkswagen_golf.png",
+    "rrp": 28965.00
   },
   {
     "id": 3,
     "make": "Mercedes",
     "model": "GLC SUV",
-    "img_url": "https://warm-dawn-92320.herokuapp.com/img/mercedes_glc_suv.png"
+    "img_url": "https://warm-dawn-92320.herokuapp.com/img/mercedes_glc_suv.png",
+    "rrp": 28965.00
   },
   {
     "id": 4,
     "make": "Hyundai",
     "model": "i30 N",
-    "img_url": "https://warm-dawn-92320.herokuapp.com/img/hyundai_i30_n.png"
+    "img_url": "https://warm-dawn-92320.herokuapp.com/img/hyundai_i30_n.png",
+    "rrp": 28965.00
   },
   {
     "id": 5,
     "make": "Kia",
     "model": "Sportage",
-    "img_url": "https://warm-dawn-92320.herokuapp.com/img/kia_sportage.png"
+    "img_url": "https://warm-dawn-92320.herokuapp.com/img/kia_sportage.png",
+    "rrp": 28965.00
   },
   {
     "id": 6,
     "make": "Mercedes",
     "model": "A-class",
-    "img_url": "https://warm-dawn-92320.herokuapp.com/img/mercedes_a_class.png"
+    "img_url": "https://warm-dawn-92320.herokuapp.com/img/mercedes_a_class.png",
+    "rrp": 28965.00
   },
   {
     "id": 7,
     "make": "SEAT",
     "model": "Arona",
-    "img_url": "https://warm-dawn-92320.herokuapp.com/img/seat_arona.png"
+    "img_url": "https://warm-dawn-92320.herokuapp.com/img/seat_arona.png",
+    "rrp": 28965.00
   },
   {
     "id": 8,
     "make": "Skoda",
     "model": "Kodiaq",
-    "img_url": "https://warm-dawn-92320.herokuapp.com/img/skoda_kodiaq.png"
+    "img_url": "https://warm-dawn-92320.herokuapp.com/img/skoda_kodiaq.png",
+    "rrp": 28965.00
   }
 ]
