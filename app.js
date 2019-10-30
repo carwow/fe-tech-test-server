@@ -1,6 +1,6 @@
 const express = require('express');
 const port = process.env.PORT || 3000;
-const modelsContainer = require('./models.json');
+const models = require('./models.json');
 
 let app = express();
 
@@ -11,14 +11,14 @@ app.get('/', function (req, res) {
 });
 
 app.get('/models', function (req, res) {
-  res.status(200).json(modelsContainer);
+  res.status(200).json(models);
 });
 
 app.get('/model/:id', (req, res) => {
   const id = parseInt(req.params.id, 10);
 
   if (!Number.isNaN(id)) {
-    const task = modelsContainer.find(item => {
+    const task = models.find(item => {
       return (item.id === id);
     });
 
