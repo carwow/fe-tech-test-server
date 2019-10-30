@@ -11,7 +11,8 @@
       "#ffffff",
       "#d3d3d3",
       "#cc0000"
-    ]
+    ],
+    "recommended_engine": "1.5 T3 163"
   },
   {
     "id": 2,
@@ -25,7 +26,8 @@
       "#ffffff",
       "#000000",
       "#00004C"
-    ]
+    ],
+    "recommended_engine": "1.6 TDI"
   },
   {
     "id": 3,
@@ -38,7 +40,8 @@
     "available_colors": [
       "#fffaaa",
       "#cc0000"
-    ]
+    ],
+    "recommended_engine": "GLC 220D 4MATIC 9G-TRONIC"
   },
   {
     "id": 4,
@@ -52,7 +55,8 @@
       "#fcfcfc",
       "#00004c",
       "#cc0000"
-    ]
+    ],
+    "recommended_engine": "2.0T GDI"
   },
   {
     "id": 5,
@@ -66,7 +70,8 @@
       "#ffffff",
       "#9999b7",
       "#cc0000"
-    ]
+    ],
+    "recommended_engine": "1.6 CRDI 48V ISG"
   },
   {
     "id": 6,
@@ -79,7 +84,8 @@
     "available_colors": [
       "#004000",
       "#cc0000"
-    ]
+    ],
+    "recommended_engine": "A180"
   },
   {
     "id": 7,
@@ -96,7 +102,8 @@
       "#6e437f",
       "#ffdb99",
       "#437f6e"
-    ]
+    ],
+    "recommended_engine": "1.0 TSI"
   },
   {
     "id": 8,
@@ -111,6 +118,7 @@
       "#d3d3d3",
       "#7f6e43",
       "#ffdc87"
-    ]
+    ],
+    "recommended_engine": "1.5 TSI"
   }
 ]

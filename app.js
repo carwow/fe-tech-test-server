@@ -5,6 +5,7 @@ const simpleModels = JSON.parse(JSON.stringify(models));
 
 simpleModels.forEach(model => {
   delete model.available_colors;
+  delete model.recommended_engine;
 });
 
 let app = express();
