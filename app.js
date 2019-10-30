@@ -1,6 +1,11 @@
 const express = require('express');
 const port = process.env.PORT || 3000;
 const models = require('./models.json');
+const simpleModels = JSON.parse(JSON.stringify(models));
+
+simpleModels.forEach(model => {
+  delete model.available_colors;
+});
 
 let app = express();
 
@@ -11,7 +16,7 @@ app.get('/', function (req, res) {
 });
 
 app.get('/models', function (req, res) {
-  res.status(200).json(models);
+  res.status(200).json(simpleModels);
 });
 
 app.get('/model/:id', (req, res) => {
