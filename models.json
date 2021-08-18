@@ -2,49 +2,49 @@
   {
     "id": 1,
     "name": "Volvo XC40",
-    "img_url": "https://warm-dawn-92320.herokuapp.com/img/volvo_xc40.png",
+    "img_url": "https://boiling-chamber-77385.herokuapp.com/img/volvo_xc40.png",
     "price": 28965.00
   },
   {
     "id": 2,
     "name": "Volkswagen Golf",
-    "img_url": "https://warm-dawn-92320.herokuapp.com/img/volkswagen_golf.png",
+    "img_url": "https://boiling-chamber-77385.herokuapp.com/img/volkswagen_golf.png",
     "price": 22080.00
   },
   {
     "id": 3,
     "name": "Mercedes GLC SUV",
-    "img_url": "https://warm-dawn-92320.herokuapp.com/img/mercedes_glc_suv.png",
+    "img_url": "https://boiling-chamber-77385.herokuapp.com/img/mercedes_glc_suv.png",
     "price": 39820.00
   },
   {
     "id": 4,
     "name": "Hyundai i30 N",
-    "img_url": "https://warm-dawn-92320.herokuapp.com/img/hyundai_i30_n.png",
+    "img_url": "https://boiling-chamber-77385.herokuapp.com/img/hyundai_i30_n.png",
     "price": 25995.00
   },
   {
     "id": 5,
     "name": "Kia Sportage",
-    "img_url": "https://warm-dawn-92320.herokuapp.com/img/kia_sportage.png",
+    "img_url": "https://boiling-chamber-77385.herokuapp.com/img/kia_sportage.png",
     "price": 20670.00
   },
   {
     "id": 6,
     "name": "Mercedes A-class",
-    "img_url": "https://warm-dawn-92320.herokuapp.com/img/mercedes_a_class.png",
+    "img_url": "https://boiling-chamber-77385.herokuapp.com/img/mercedes_a_class.png",
     "price": 23160.00
   },
   {
     "id": 7,
     "name": "SEAT Arona",
-    "img_url": "https://warm-dawn-92320.herokuapp.com/img/seat_arona.png",
+    "img_url": "https://boiling-chamber-77385.herokuapp.com/img/seat_arona.png",
     "price": 17580.00
   },
   {
     "id": 8,
     "name": "Skoda Kodiaq",
-    "img_url": "https://warm-dawn-92320.herokuapp.com/img/skoda_kodiaq.png",
+    "img_url": "https://boiling-chamber-77385.herokuapp.com/img/skoda_kodiaq.png",
     "price": 26755.00
   }
 ]
